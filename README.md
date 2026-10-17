@@ -50,3 +50,8 @@ La página usa rutas relativas para funcionar tanto en local como en una subruta
 - `downloads/`: ZIP de plugins validados
 
 Esta plantilla es independiente y no representa oficialmente a QGIS.
+
+
+## Publicación v0.3.4 (QGIS 4.x)
+
+Sube el ZIP real `GeoTools_GT_v0_3_4_QGIS4.zip` a `downloads/` del repositorio. El botón de la ficha está configurado para ese nombre exacto. La edición QGIS 3.x se publicará por separado.
