@@ -1,0 +1,10 @@
+ACTUALIZACIÓN GEOTOOLS GT - QGIS 3.x
+
+Subir a la RAÍZ del repositorio, conservando rutas:
+- plugins/geotools-gt/index.html
+- assets/js/site.js
+- documentacion.html
+- downloads/GeoTools_GT_v0_3_3_QGIS3.zip
+
+No borrar ni sustituir downloads/GeoTools_GT_v0_3_4_QGIS4.zip.
+El paquete v0.3.3 declara qgisMinimumVersion=3.16 y no incluye qgisMaximumVersion. Recomendado probar instalándolo en una versión de QGIS 3.x.
